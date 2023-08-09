@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlamenPeev
 - 👀 I’m interested in QA & Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning QA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/plamen-peev-aa98467a/
 
